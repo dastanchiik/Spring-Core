@@ -1,2 +1,7 @@
-package peak;public class AppConfig {
+package peak.configuration;
+
+
+
+public class AppConfig {
+
 }

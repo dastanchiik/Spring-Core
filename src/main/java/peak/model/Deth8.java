@@ -1,2 +1,10 @@
-package peak.model;public class Deth8 {
+package peak.model;
+
+
+public class Deth8 {
+
+    @Override
+    public String toString() {
+        return ", finish";
+    }
 }
