@@ -4,29 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d451d86f-7b9b-4dd7-8c91-42010e3e381d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/peak/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/peak/KoscheiTheDeathless.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/peak/configuration/AppConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/peak/model/Deth8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/peak/model/Duck5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/peak/model/Egg6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/peak/model/Island2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/peak/model/Needle7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/peak/model/Ocean1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/peak/model/Rabbit4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/peak/model/Wood3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/peak/example/AppTest.java" afterDir="false" />
-    </list>
+    <list default="true" id="d451d86f-7b9b-4dd7-8c91-42010e3e381d" name="Changes" comment="core" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -79,8 +57,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1677131883300</updated>
-      <workItem from="1677131885428" duration="1245000" />
+      <workItem from="1677131885428" duration="1588000" />
     </task>
+    <task id="LOCAL-00001" summary="core">
+      <created>1677133216459</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1677133216459</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -96,5 +82,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="core" />
+    <option name="LAST_COMMIT_MESSAGE" value="core" />
   </component>
 </project>
